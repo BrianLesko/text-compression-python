@@ -1,6 +1,6 @@
 
-# Text Extraction from an PDF file
-This code implements text parsing from a PDF File using Apple's Objective C programming language wrapped in Python. 
+# Text Compression from an PDF file
+This code implements text parsing from a PDF File and then text compression
 
 &nbsp;
 
@@ -9,6 +9,7 @@ This code implements text parsing from a PDF File using Apple's Objective C prog
 This code uses the following libraries:
 - `streamlit`: for building the user interface.
 - `pyobjc`: for the PDF text extraction.
+- `lz4`: for compressing the encoded text.
 
 &nbsp;
 
